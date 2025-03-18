@@ -1,4 +1,4 @@
-# Miễn trừ trách nhiệm và chỉ mang tính chất tham khảo
+# Miễn trừ mọi trách nhiệm và chỉ mang tính chất tham khảo
 
 # Gucci Botnet Setup Guide
 This guide provides detailed instructions to set up the Gucci Botnet on a Linux system using the `yum` package manager. Follow each step carefully to install dependencies, configure the environment, and compile the botnet. Prerequisites: A Linux system with `yum` (e.g., CentOS or RHEL), Root or sudo access, An active internet connection.
